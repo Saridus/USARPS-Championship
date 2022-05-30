@@ -1,0 +1,14 @@
+{
+    "name": "htl3r/usarps",
+    "description": "USARPS",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "htl3r\\usarps\\": "src/"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.3",
+        "doctrine/dbal": "^3.3"
+    }
+}
